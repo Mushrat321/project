@@ -1,0 +1,45 @@
+.anchor{
+    background-color: aqua;
+}
+
+.anchor a{
+    color: red;
+    text-decoration: none;
+    font-size: larger;
+    font-style: italic;
+}
+
+.marquee{
+    height: 50px;
+    background-color: blue;
+    color: brown;
+    font-size: larger;
+}
+
+.body{
+    height: 400px;
+    background-color: bisque;
+}
+
+.body{
+    font-size: medium;
+    font-style: italic;
+}
+
+.btn{
+    color: red;
+    border-color: yellow;
+}
+
+.footer{
+    height: 300px;
+    background-color: yellow;
+    
+}
+
+.footer a{
+    color: red;
+    text-decoration: none;
+    font-size: larger;
+    font-style: italic
+}
